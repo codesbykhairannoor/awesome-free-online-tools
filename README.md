@@ -63,6 +63,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 
 ## PDF & files
 
+- **[SolveMyMedia](https://solvemymedia.com)** — Free, 100% private in-browser video & audio suite: compress, convert, trim, transcribe, and edit without server uploads.
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
 - **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
 - **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
